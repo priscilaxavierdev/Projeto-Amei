@@ -1,3 +1,4 @@
+<div align="center">
 # Projeto DEMODAY - AMEI
 ## A plataforma
 ![Texto alternativo](fluxodecaixa.png)
@@ -52,3 +53,4 @@ Acesse o [nosso linktree](https://linktr.ee/amei.ltda).
 E visite o [instagram do projeto](https://www.instagram.com/ameioprojeto/).
 
 
+</div>
