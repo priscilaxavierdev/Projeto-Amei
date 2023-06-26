@@ -1,7 +1,13 @@
 # Projeto DEMODAY - AMEI
 ## A plataforma
 ![Texto alternativo](fluxodecaixa.png)
-
+## Ferramentas 
+![Texto alternativo](ferramnetas.png)
+![Texto alternativo](fluxodecaixa.png)
+## Treinamentos
+![Texto alternativo](pagetreinamentos.png)
+## Perfil do usúario
+![Texto alternativo](perfildousuario.png)
 ## Trabalho de Conclusão de Curso
 
 A AMEI é o trabalho de conclusão de curso (Profissionalização do Microempreendedor Periférico do Ramo Alimentício). A AMEI é uma empresa que tem como objetivo capacitar os Microempreendedores Individuais (MEIs) que atuam no ramo alimentício, fornecendo mentorias especializadas e ferramentas desenvolvidas especialmente para ajudá-los a manter e expandir seus negócios.
