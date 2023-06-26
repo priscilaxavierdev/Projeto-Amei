@@ -33,3 +33,8 @@ Espera-se que o Projeto DEMODAY - AMEI demonstre os seguintes resultados:
 ## Contato
 
 Para mais informações sobre o Projeto DEMODAY - AMEI,
+Conheça e visite o [nosso site](https://amei-demoday.github.io/Plataforma/).
+Acesse nosso Linktree [nosso site](https://linktr.ee/amei.ltda).
+Para mais informações, visite o [nosso site](https://www.instagram.com/ameioprojeto/).
+
+
