@@ -3,7 +3,7 @@
 ![Texto alternativo](fluxodecaixa.png)
 
 ## Ferramentas 
-![Texto alternativo](ferramnetas.png)
+![Texto alternativo](ferramentas.png)
 
 ### Fluxo de caixa
 ![Texto alternativo](fluxodecaixa.png)
