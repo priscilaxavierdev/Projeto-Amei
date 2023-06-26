@@ -1,4 +1,6 @@
 # Projeto DEMODAY - AMEI
+## A plataforma
+![Texto alternativo](fluxodecaixa.png)
 
 ## Trabalho de Conclusão de Curso
 
