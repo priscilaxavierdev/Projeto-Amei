@@ -1,7 +1,7 @@
 <div align="center">
-# Projeto DEMODAY - AMEI
 
-## Projeto Demoday
+
+## Projeto Demoday - AMEI
 
 A AMEI é o trabalho de conclusão de curso um Projeto Demoday.
 ## Objetivos
