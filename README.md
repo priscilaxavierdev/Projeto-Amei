@@ -1,19 +1,5 @@
 <div align="center">
 # Projeto DEMODAY - AMEI
-## A plataforma
-![Texto alternativo](fluxodecaixa.png)
-
-## Ferramentas 
-![Texto alternativo](ferramentas.png)
-
-### Fluxo de caixa
-![Texto alternativo](fluxodecaixa.png)
-
-## Treinamentos
-![Texto alternativo](pagetreinamentos.png)
-
-## Perfil do usúario
-![Texto alternativo](perfildousuario.png)
 
 ## Projeto Demoday
 
@@ -43,6 +29,22 @@ Espera-se que a empresa AMEI demonstre os seguintes resultados:
 2. Crescimento dos negócios: Através da capacitação oferecida pela AMEI, espera-se que os MEIs sejam capazes de expandir seus negócios, aumentando sua clientela, diversificando seus produtos e serviços, e conquistando novos mercados.
 
 3. Fortalecimento da comunidade empreendedora local: Ao capacitar os MEIs do ramo alimentício, a AMEI busca fortalecer a comunidade empreendedora local, promovendo a troca de experiências, o networking e a colaboração entre os participantes.
+4. 
+## Sobre o visual da plataforma
+## Página Inicial
+![Texto alternativo](fluxodecaixa.png)
+
+## Ferramentas 
+![Texto alternativo](ferramentas.png)
+
+### Fluxo de caixa
+![Texto alternativo](fluxodecaixa.png)
+
+## Treinamentos
+![Texto alternativo](pagetreinamentos.png)
+
+## Perfil do usúario
+![Texto alternativo](perfildousuario.png)
 
 ## Contato
 
