@@ -37,10 +37,10 @@ Espera-se que a empresa AMEI demonstre os seguintes resultados:
 ## Ferramentas 
 ![Texto alternativo](ferramentas.png)
 
-### Fluxo de caixa
+### 1º Fluxo de caixa
 ![Texto alternativo](fluxodecaixa.png)
 
-## Treinamentos
+##  Tela de treinamentos
 ![Texto alternativo](pagetreinamentos.png)
 
 ## Perfil do usúario
