@@ -17,11 +17,10 @@
 
 ## Projeto Demoday
 
-A AMEI é o trabalho de conclusão de curso (Profissionalização do Microempreendedor Periférico do Ramo Alimentício). A AMEI é uma empresa que tem como objetivo capacitar os Microempreendedores Individuais (MEIs) que atuam no ramo alimentício, fornecendo mentorias especializadas e ferramentas desenvolvidas especialmente para ajudá-los a manter e expandir seus negócios.
-
+A AMEI é o trabalho de conclusão de curso um Projeto Demoday.
 ## Objetivos
 
-O principal objetivo da AMEI é demonstrar os resultados alcançados pela AMEI ao longo do período de implementação do programa de capacitação. Este projeto visa apresentar como a AMEI contribuiu para a profissionalização dos MEIs do ramo alimentício, fornecendo as ferramentas necessárias para a gestão eficiente de seus negócios, bem como o desenvolvimento de habilidades empreendedoras.
+O principal objetivo da AMEI é demonstrar os resultados alcançados a longo do período de implementação da plataforma. Este projeto visa apresentar como a AMEI contribuiu para a profissionalização dos MEIs do ramo alimentício, fornecendo as ferramentas necessárias para a gestão eficiente de seus negócios, bem como o desenvolvimento de habilidades empreendedoras.
 
 ## Metodologia
 
@@ -31,7 +30,7 @@ A AMEI utiliza uma abordagem prática e participativa para capacitar os MEIs. A 
 
 2. Workshops e treinamentos: São oferecidos workshops e treinamentos abordando temas relevantes para os MEIs, como gestão financeira, marketing, atendimento ao cliente e boas práticas de higiene e manipulação de alimentos.
 
-3. Ferramentas e recursos: A AMEI disponibiliza ferramentas e recursos especialmente desenvolvidos para auxiliar os MEIs na gestão de seus negócios, incluindo planilhas de controle financeiro, modelos de cardápio, dicas de divulgação e acesso a redes de fornecedores.
+3. Ferramentas e recursos: A AMEI disponibiliza ferramentas e recursos especialmente desenvolvidos para auxiliar os MEIs na gestão de seus negócios, controle de estoque, fluxo de caixa  e calculadora.
 
 4. Acompanhamento e avaliação: Os MEIs são acompanhados ao longo do programa, com avaliações periódicas para monitorar o progresso e identificar áreas de melhoria.
 
@@ -39,7 +38,7 @@ A AMEI utiliza uma abordagem prática e participativa para capacitar os MEIs. A 
 
 Espera-se que a empresa AMEI demonstre os seguintes resultados:
 
-1. Melhoria na gestão dos negócios dos MEIs: Os participantes do programa devem adquirir conhecimentos e habilidades que os auxiliem na administração eficiente de suas empresas, resultando em um melhor controle financeiro, aumento da produtividade e otimização dos processos.
+1. Melhoria na gestão dos negócios dos MEIs: Os usúarios da plataforma devem adquirir conhecimentos e habilidades que os auxiliem na administração eficiente de suas empresas, resultando em um melhor controle financeiro, aumento da produtividade e otimização dos processos.
 
 2. Crescimento dos negócios: Através da capacitação oferecida pela AMEI, espera-se que os MEIs sejam capazes de expandir seus negócios, aumentando sua clientela, diversificando seus produtos e serviços, e conquistando novos mercados.
 
