@@ -18,8 +18,6 @@ A AMEI utiliza uma abordagem prática e participativa para capacitar os MEIs. A 
 
 3. Ferramentas e recursos: A AMEI disponibiliza ferramentas e recursos especialmente desenvolvidos para auxiliar os MEIs na gestão de seus negócios, controle de estoque, fluxo de caixa  e calculadora.
 
-4. Acompanhamento e avaliação: Os MEIs são acompanhados ao longo do programa, com avaliações periódicas para monitorar o progresso e identificar áreas de melhoria.
-
 ## Resultados Esperados
 
 Espera-se que a empresa AMEI demonstre os seguintes resultados:
