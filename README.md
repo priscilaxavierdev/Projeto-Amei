@@ -3,7 +3,7 @@
 
 ## Projeto Demoday - AMEI
 
-A AMEI é o trabalho de conclusão de curso um Projeto Demoday.
+A AMEI é um trabalho de conclusão de curso mais conhecido como um Projeto Demoday. Onde no Insituto PROA usamos todo conhecimentos aprendidos sobre programação na criação de uma Startup.
 ## Objetivos
 
 O principal objetivo da AMEI é demonstrar os resultados alcançados a longo do período de implementação da plataforma. Este projeto visa apresentar como a AMEI contribuiu para a profissionalização dos MEIs do ramo alimentício, fornecendo as ferramentas necessárias para a gestão eficiente de seus negócios, bem como o desenvolvimento de habilidades empreendedoras.
