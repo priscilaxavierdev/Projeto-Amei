@@ -32,7 +32,12 @@ Espera-se que a empresa AMEI demonstre os seguintes resultados:
 
 ## Sobre o visual da plataforma
 ## Página Inicial
-![Texto alternativo](fluxodecaixa.png)
+![Texto alternativo](paginainicial.png)
+## Sobre
+![Texto alternativo](sobre.png)
+## Planos
+![Texto alternativo](planos.png)
+### Essas seguem sendo as partes importantes a se destacar
 
 ## Ferramentas 
 ![Texto alternativo](ferramentas.png)
