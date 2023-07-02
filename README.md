@@ -55,7 +55,7 @@ Para mais informações sobre a AMEI,
 Conheça e visite o [nosso site](https://amei-demoday.github.io/Plataforma/).
 Acesse o [nosso linktree](https://linktr.ee/amei.ltda).
 Visite o [instagram do projeto](https://www.instagram.com/ameioprojeto/).
-E confira o [github da amei](https://linktr.ee/amei.ltda).).
+E confira o [github da amei](https://github.com/AMEI-Demoday).
 
 
 </div>
