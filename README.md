@@ -54,7 +54,8 @@ Espera-se que a empresa AMEI demonstre os seguintes resultados:
 Para mais informações sobre a AMEI,
 Conheça e visite o [nosso site](https://amei-demoday.github.io/Plataforma/).
 Acesse o [nosso linktree](https://linktr.ee/amei.ltda).
-E visite o [instagram do projeto](https://www.instagram.com/ameioprojeto/).
+Visite o [instagram do projeto](https://www.instagram.com/ameioprojeto/).
+E confira o [github da amei](https://linktr.ee/amei.ltda).).
 
 
 </div>
